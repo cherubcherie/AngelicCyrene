@@ -21,10 +21,10 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
+    activities: [3
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        name: "Cherubim Community", // required by Discord API, not shown in the client
+        state: "The goat Cherry is my Master",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
@@ -93,8 +93,8 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
-      secondary: "#2F3136",
+      primary: "#ffb0c8",
+      secondary: "#fc7ca2",
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287",
