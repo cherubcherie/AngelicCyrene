@@ -20,7 +20,7 @@ export const botConfig = {
     // 2 = Listening
     // 3 = Watching
     // 4 = Custom
-    // 5 = Competinga
+    // 5 = Competing
 activities: [
         {
             name: "Cherubim Community", // required by Discord API, not shown in the client
